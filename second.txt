@@ -1,1 +1,2 @@
-Second trial file
+Second trial file 
+Added git hub repository first time.
